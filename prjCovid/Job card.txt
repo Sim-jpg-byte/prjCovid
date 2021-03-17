@@ -1,0 +1,16 @@
+﻿Covid 19 Vac
+
+hosipital Name
+Address: 1 Cape Road
+Private or Public : Private
+Provonce: EC
+
+Information of each person:
+
+ID number:
+Medical Aid
+Name
+Surname
+Refering Dr
+Blood Type
+All
